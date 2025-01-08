@@ -1,0 +1,7 @@
+**/.vs
+net8.0
+*/TestResults
+**/bin
+**/obj
+**/Properties
+**/*.csproj.user
